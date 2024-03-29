@@ -18,12 +18,12 @@ profiles:
       <p>Principal Investigator </p>
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-         <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: left
@@ -35,12 +35,12 @@ profiles:
       <p>Research Assistant</p>   
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-         <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: right
@@ -52,12 +52,12 @@ profiles:
       <p>Research Assistant</p>  
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-         <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: left
@@ -69,11 +69,12 @@ profiles:
       <p>Post Doctoral Fellow</p>
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-         <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: right
@@ -85,12 +86,12 @@ profiles:
       <p>PhD Candidate</p>      
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: left
@@ -101,12 +102,13 @@ profiles:
       <p>Atousa Assadi</p>
       <p>PhD Candidate</p>   
         <div>
-        <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a> 
-          <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+         <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: right
@@ -118,12 +120,12 @@ profiles:
       <p>PhD Candidate</p>   
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: right
@@ -135,12 +137,12 @@ profiles:
       <p>PhD Candidate</p>  
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
 
   - align: left
@@ -152,15 +154,13 @@ profiles:
         <p>PhD Candidate</p>
         <div>
          <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
-         <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
-          <a href="https://www.researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
-          <a href="https://www.orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="http://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://scholar.google.com/" target="_blank"><i class="ai ai-google-scholar"></i></a>
+          <a href="http://researchgate.com/" target="_blank"><i class="ai ai-researchgate"></i></a>
+          <a href="http://orcid.net" target="_blank"><i class="ai ai-orcid"></i></a>
+          <a href="http://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="http://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
         </div>
-
-
 
   - align: right
     content: member_summer_student.md
